@@ -12,18 +12,18 @@ p {
     display: block;
 }
 
-a{
+a {
     color: silver;
     cursor: pointer;
     text-decoration: none;
     margin-top: 16px;
     
 }
-.login-form{
+.login-form {
     display: block;
 }
 
-.form-field{
+.form-field {
     border: none;
     margin-left: 20px;
     height: 28px;
@@ -47,12 +47,12 @@ a{
     border: 1px solid transparent;
 }
 
-.forgot-password{
+.forgot-password {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.container{
+.container {
     color: white;
     background-color: rgba(0,0,0,0.2);
     width: 320px;
@@ -70,7 +70,7 @@ a{
     text-align: center;
 
 }
-.logo-square{
+.logo-square {
     background-image: url("logo.png");
     width: 180px;
     height: 212px;
@@ -80,17 +80,17 @@ a{
     margin-right: auto;
     background-color: transparent;
 }
-.btn.is-red-text{
+.btn.is-red-text {
     color: #bb432c;
 }
-.btn.is-dark{
+.btn.is-dark {
     background-color: rgba(0,0,0,0.2);
 }
-.btn.is-scaled{
+.btn.is-scaled {
     width:100%;
     display: block;
 }
-.btn{
+.btn {
     border: 0;
     width: auto;
     cursor: pointer;
@@ -115,11 +115,11 @@ a{
     transition: background-color 0.15s ease-in-out;
 }
 
-.mtm{
+.mtm {
     margin-top: 15px;
 }
 
-.main-footer{
+.main-footer {
     color:silver;
     font-family: "Lato","Helvetica Neue","Helvetica",sans-serif;
     padding: 0.75em;
